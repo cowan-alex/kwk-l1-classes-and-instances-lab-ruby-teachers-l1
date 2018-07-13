@@ -1,1 +1,1 @@
-#define dog and make 3 dogs 
+#define dog and make Fido Snoopy & Lassie
